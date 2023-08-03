@@ -1,1 +1,1 @@
-My readme
+input shell basics tasks
